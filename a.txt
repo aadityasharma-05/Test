@@ -1,2 +1,4 @@
 hello
 whats up ??
+today we are working on the proccess of git and github 
+I am one of the contributor to thus project 
